@@ -34,10 +34,8 @@ dist/
 *.synctex.gz
 *.toc
 
-# Generated assignment outputs
+# Generated assignment output
 assignment.pdf
-cluster_*.png
-proof_*.png
 
 # Editor and OS files
 .DS_Store
