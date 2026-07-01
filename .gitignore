@@ -34,8 +34,6 @@ dist/
 *.synctex.gz
 *.toc
 
-# Generated assignment output
-assignment.pdf
 
 # Editor and OS files
 .DS_Store
